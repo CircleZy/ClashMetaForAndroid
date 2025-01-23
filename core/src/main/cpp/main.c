@@ -4,7 +4,6 @@
 #include <string.h>
 
 #include "bridge_helper.h"
-#include "libclash.h"
 #include "jni_helper.h"
 #include "trace.h"
 
